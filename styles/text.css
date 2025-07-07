@@ -1,0 +1,51 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    cursor: default;
+}
+
+.video{
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.stats{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 0px;
+}
+
+.name{
+    font-size: 15px;
+    color: rgb(37, 37, 37);
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.text{
+    color: rgb(37, 37, 37);
+    font-size: 13px;
+    width: 260px;
+    line-height: 24px;
+    margin-top: 20px;
+}
+
+.apple{
+    margin-top: 80px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(248, 13, 13);
+    text-align: center;
+    color: white;
+}
+
+.link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
